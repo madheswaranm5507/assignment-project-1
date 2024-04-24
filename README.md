@@ -1,10 +1,14 @@
 # YOUTUBE DATA HARVESTING AND WAREHOUSING
 
-# INTRODUCTION : 
+
+# Introduction :
+
   YouTube Data API that allows users to retrieve and analyze data from YouTube channels.It utilizes the YouTube Data API to fetch information such as channel details, video details, comments 
   details and more. The YouTube Data API Reference provides various functionalities to extract and process YouTube data for further analysis and insights.
 
-# TECHNOLOGIES USED :
+
+# Technologies Used :
+
   1) Python - The project is implemented using the Python programming language.
    
   2) MongoDB - The collected data can be stored in a MongoDB database for efficient data management.
